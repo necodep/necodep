@@ -4,7 +4,7 @@
     <a href="##">
       <img src="https://img.shields.io/badge/none-gray?&style=for-the-badge" alt="none"/>
     </a>
-      <a href="https://t.me/dahsuophioudsa">
+      <a href="https://t.me/necoddep">
         <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
       </a>
     <a href="##">
